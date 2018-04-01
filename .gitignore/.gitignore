@@ -1,0 +1,32 @@
+<!PROTOTYPE html>
+<html>
+<head>
+<body background="https://wallpaperscraft.com/image/pink_floyd_triangle_rainbow_graphics_background_3721_1680x1050.jpg">
+<br>
+
+<h1 style="text-align:center;color:green;font-size:35;">VaX InCorp.</h1>
+<hr>
+<hr>
+<style>
+.button {
+  background-color: #7CB9E8;
+  border: none;
+  color: green;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.8;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.button:hover {opacity: 1}
+</style>
+</head>
+<body>
+
+<button class="button">About <br> <button class="button">Future <br> <button class="button"> Projects</button>
+
